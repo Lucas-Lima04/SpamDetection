@@ -7,7 +7,7 @@ Para executá-los basta baixar os dois arquivos:
 
 [Spam_teste2.ipynb](https://github.com/Lucas-Lima04/SpamDetection/blob/main/Spam_teste2.ipynb)
 
-O primeiro arquivo contém uma extração de dados e estatísticas interessantes sobre o dataset. Já no segundo arquivo há o desenvolvimento de uma aplicação com o intuito de aprender com estes dados e ser capaz de classificar outros e-mails como spam.
+O primeiro arquivo contém uma extração de dados e estatísticas interessantes sobre o dataset. Já no segundo arquivo há o desenvolvimento de uma aplicação com o intuito de aprender com estes dados e ser capaz de classificar outros e-mails como spam. Dentro de cada arquivo há também uma breve explicação sobre cada parte do código.
 
 Após baixar basta abrir a plataforma [Colab](https://colab.research.google.com/) da Google e importá-los. Já com eles abertos é possível clicar no menu "Ambiente de Execução" e na opção "Executar Tudo" para ver os resultados.
 
